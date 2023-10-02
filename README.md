@@ -1,5 +1,4 @@
-
-<img width="915" alt="angularshoppingcart" src="https://github.com/rashamiabhyankar12/shopping-cart/assets/139979749/ba8b1345-4b7a-4781-8e80-d511560808d7">
+<img width="915" alt="angularshoppingcart" src="https://github.com/rashamiabhyankar12/shopping-cart/assets/139979749/5e5a7ea9-71ff-4b5b-bd65-4204e59a3242">
 
 
 
