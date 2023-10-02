@@ -1,3 +1,8 @@
+
+<img width="915" alt="angularshoppingcart" src="https://github.com/rashamiabhyankar12/shopping-cart/assets/139979749/ba8b1345-4b7a-4781-8e80-d511560808d7">
+
+
+
 # ShoppingCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
