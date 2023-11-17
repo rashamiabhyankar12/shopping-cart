@@ -1,5 +1,4 @@
-<img width="917" alt="Screenshot 2023-11-17 144647" src="https://github.com/rashamiabhyankar12/shopping-cart/assets/139979749/d9b01fbc-0bdf-48f2-bb98-e4d8d32e5f02">
-<img width="781" alt="Screenshot 2023-11-17 144717" src="https://github.com/rashamiabhyankar12/shopping-cart/assets/139979749/1107ae2c-0839-426b-af44-10fd5e47ef88">
+
 
 
 # ShoppingCart
