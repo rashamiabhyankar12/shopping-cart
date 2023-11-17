@@ -1,3 +1,5 @@
+<img width="917" alt="Screenshot 2023-11-17 142226" src="https://github.com/rashamiabhyankar12/shopping-cart/assets/139979749/48191dda-fdb9-47a4-9f1a-076d716140d3">
+
 # ShoppingCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
